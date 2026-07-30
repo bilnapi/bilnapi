@@ -1,8 +1,0 @@
-{
-  "name": "Bil ♥ Napi - Kỷ Niệm Tình Yêu",
-  "description": "Website lưu trữ kỷ niệm, album hình ảnh, đếm ngày yêu và những mốc thời gian đáng nhớ của hai vợ chồng.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
